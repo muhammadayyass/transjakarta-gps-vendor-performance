@@ -1,7 +1,7 @@
 # GPS Fleet Vendor Performance & Data Integrity Analytics
 ### Industry Placement Case Study — PT TransJakarta (in partnership with PPKD Jakarta Selatan & JakLingko)
 
-> **Note on confidentiality:** This project was completed as part of a supervised industry placement using PT TransJakarta's internal operational data. Vendor names, the underlying dataset, and the full dashboard file are not published here out of respect for that confidentiality. This page describes the **methodology, technical approach, and skills demonstrated** — happy to walk through specific findings in an interview.
+> **Note on confidentiality:** This project was completed as part of a supervised industry placement using PT TransJakarta's internal operational data. Vendor names, the underlying dataset, and the full dashboard file are not published here out of respect for that confidentiality. This page describes the **methodology, technical approach, and skills demonstrated**
 
 ## Business Problem
 TransJakarta's fleet-tracking system depends on GPS data delivered by multiple third-party vendors under contractual Service Level Agreements (SLAs). When passengers see inaccurate real-time bus locations, it's historically been unclear whether the root cause is network infrastructure, vendor hardware, or specific vendor-operator combinations — evaluations tended to rely on anecdote rather than evidence.

@@ -7,7 +7,7 @@
 ![Kruskal--Wallis](https://img.shields.io/badge/Kruskal--Wallis_Test-333333?style=flat-square)
 ![Status](https://img.shields.io/badge/status-completed-2ea44f?style=flat-square)
 
-> **Confidentiality note:** this project was completed as part of a supervised industry placement using PT TransJakarta's internal operational data. Vendor names, the underlying dataset, and the full dashboard file are not published here out of respect for that confidentiality. This page describes the methodology, technical approach, and skills demonstrated — happy to walk through specific findings in an interview.
+> **Confidentiality note:** this project was completed as part of a supervised industry placement using PT TransJakarta's internal operational data. Vendor names, the underlying dataset, and the full dashboard file are not published here out of respect for that confidentiality. This page describes the methodology, technical approach, and skills demonstrated.
 
 ## Contents
 - [Business Problem](#business-problem)
